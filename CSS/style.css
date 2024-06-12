@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightskyblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: lightcoral;
+}
+
+h2 {
+    text-align: center;
+    font-size: 35px;
+    background-color: lightgreen;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 45%;
+    font-size: 25px;
+    background-color: lightpink;
+    color: black;
+}
+
+a:hover {
+    background-color: darkmagenta;
+}
